@@ -1,0 +1,4 @@
+﻿  ソース.c
+C:\島研\NN\NN_kai\NN_kai\ソース.c(303,10): warning C4098: 'online_training': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+C:\島研\NN\NN_kai\NN_kai\ソース.c(601,10): warning C4098: 'batch_training': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+  NN_kai.vcxproj -> C:\島研\NN\NN_kai\Debug\NN_kai.exe
